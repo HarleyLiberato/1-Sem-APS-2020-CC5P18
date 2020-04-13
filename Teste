@@ -1,0 +1,13 @@
+egit add README.md
+cho "# 1-Sem-APS-2020-CC5P18" >> README.md
+git commit -m "first commit"
+git remote add origin https://github.com/APS-Universidade-Paulista/1-Sem-APS-2020-CC5P18.git
+git push -u origin master
+                fatal: invalid refspec '# 1-Sem-APS-2020-CC5P18'
+
+
+
+$ git remote add origin https://github.com/APS-Universidade-Paulista/1-Sem-APS-2020-CC5P18.git
+fatal: remote origin already exists.
+
+
