@@ -11,3 +11,15 @@ $ git remote add origin https://github.com/APS-Universidade-Paulista/1-Sem-APS-2
 fatal: remote origin already exists.
 
 
+sempre que entrar dar um 
+git init
+
+para commitar
+
+> git status
+
+>git add nome do arquivo
+
+>git commit -m "teste"
+
+git push -u origin master
